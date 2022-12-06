@@ -14,10 +14,10 @@
 2. Rodar os arquivos servidor.py e cliente.py respectivamente:
 <img src="https://cdn.discordapp.com/attachments/886361612125085716/998362975389876424/unknown.png">
 
-3. Digitar o nome dos clientes que irão se conectar ao grupo de mensagens e presseionar Enter
+3. Digitar o nome dos clientes que irão se conectar ao grupo de mensagens e pressionar Enter:
 <img src="https://cdn.discordapp.com/attachments/886361612125085716/998363099138621490/unknown.png">
 
-4. Agora que os clientes já estão conectados e com seus nomes definidos, só precisam digitar as mensagens e envia-las pressionando Enter
+4. Agora que os clientes já estão conectados e com seus nomes definidos, só precisam digitar as mensagens e envia-las pressionando Enter:
 <img src="https://cdn.discordapp.com/attachments/886361612125085716/998363367016255598/unknown.png">
 
 <div align="center">OBS: Para desconectar do grupo basta apenas enviar uma mensagem vazia, ou seja, pressionar ENTER.</div>
