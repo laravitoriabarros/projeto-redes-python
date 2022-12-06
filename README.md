@@ -9,18 +9,18 @@
 <p>Para rodar a aplicação no <b>Windows</b>, deve-se ter instalado o <b>Python</b> e seguir os seguintes passos:</p>
 
 1. Editar a variável "SERVER" para o seu IP no arquivo "cliente.py" (Linha 8 do código)
-<img src="https://cdn.discordapp.com/attachments/886361612125085716/998361814364602408/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/883197735380070413/1049581110700548126/image.png">
 
 2. Abrir os terminais/prompts de comandos, no mínimo 3 para conseguir rodar o servidor e os clientes
-<img src="https://cdn.discordapp.com/attachments/886361612125085716/998362338417725440/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/883197735380070413/1049581602113605682/image.png">
 
 3. Rodar respectivamente os arquivos servidor.py e cliente.py
-<img src="https://cdn.discordapp.com/attachments/886361612125085716/998362975389876424/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/883197735380070413/1049581867441074176/image.png">
 
 4. Digitar o nome dos clientes que irão se conectar ao grupo de mensagens e pressionar Enter
-<img src="https://cdn.discordapp.com/attachments/886361612125085716/998363099138621490/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/883197735380070413/1049582051558428713/image.png">
 
 5. Agora que os clientes já estão conectados e com seus nomes definidos, só precisam digitar as mensagens e envia-las pressionando Enter
-<img src="https://cdn.discordapp.com/attachments/886361612125085716/998363367016255598/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/883197735380070413/1049582477439676436/image.png">
 
 <div align="center">OBS: Para desconectar do grupo basta apenas enviar uma mensagem vazia, ou seja, pressionar enter...</div>
